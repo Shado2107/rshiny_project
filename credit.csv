@@ -1,0 +1,67 @@
+Marche;Impaye;Endettement;Famille;Profession;Age
+Renovation;Imp_0;End_1;Union libre;Ouvrier non qualifie;50
+Renovation;Imp_0;End_2;Marie;Ouvrier qualifie;40
+Voiture;Imp_0;End_3;Marie;Ouvrier qualifie;30
+Renovation;Imp_0;End_2;Veuf;Retraite;60
+Scooter;Imp_3 et +;End_4;Union libre;Cadre moyen;20
+Renovation;Imp_0;End_3;Marie;Retraite;60
+Renovation;Imp_0;End_2;Veuf;Retraite;60
+Renovation;Imp_0;End_2;Veuf;Retraite;60
+Mobilier / Ameublement;Imp_0;End_1;Union libre;Ouvrier non qualifie;40
+Renovation;Imp_0;End_2;Marie;Retraite;60
+Voiture;Imp_0;End_3;Union libre;Ouvrier non qualifie;20
+Mobilier / Ameublement;Imp_0;End_3;Union libre;Ouvrier qualifie;40
+Voiture;Imp_0;End_4;Union libre;Ouvrier qualifie;30
+Mobilier / Ameublement;Imp_0;End_3;Union libre;Ouvrier qualifie;50
+Mobilier / Ameublement;Imp_0;End_2;Divorce;Retraite;60
+Mobilier / Ameublement;Imp_0;End_3;Celibataire;Ouvrier non qualifie;40
+Voiture;Imp_0;End_1;Marie;Cadre sup.;50
+Renovation;Imp_3 et +;End_4;Marie;Cadre moyen;50
+Mobilier / Ameublement;Imp_3 et +;End_1;Celibataire;Ouvrier qualifie;30
+Mobilier / Ameublement;Imp_3 et +;End_2;Celibataire;Cadre moyen;30
+Voiture;Imp_3 et +;End_3;Veuf;Ouvrier non qualifie;40
+Renovation;Imp_0;End_1;Marie;Retraite;60
+Renovation;Imp_0;End_1;Celibataire;Cadre moyen;50
+Renovation;Imp_0;End_3;Marie;Ouvrier qualifie;30
+Mobilier / Ameublement;Imp_0;End_3;Marie;Cadre moyen;50
+Mobilier / Ameublement;Imp_0;End_4;Marie;Cadre sup.;30
+Renovation;Imp_3 et +;End_4;Celibataire;Cadre moyen;40
+Mobilier / Ameublement;Imp_0;End_1;Marie;Retraite;60
+Moto;Imp_0;End_1;Celibataire;Ouvrier qualifie;30
+Scooter;Imp_1_ou_2;End_4;Marie;Ouvrier qualifie;20
+Moto;Imp_1_ou_2;End_3;Celibataire;Ouvrier non qualifie;30
+Voiture;Imp_0;End_3;Marie;Cadre sup.;40
+Renovation;Imp_1_ou_2;End_3;Union libre;Retraite;60
+Moto;Imp_0;End_2;Marie;Cadre moyen;50
+Scooter;Imp_0;End_3;Union libre;Cadre sup.;30
+Renovation;Imp_0;End_1;Veuf;Retraite;60
+Voiture;Imp_0;End_1;Celibataire;Ouvrier qualifie;20
+Voiture;Imp_0;End_1;Celibataire;Ouvrier qualifie;30
+Moto;Imp_0;End_3;Marie;Cadre moyen;40
+Moto;Imp_0;End_2;Celibataire;Cadre moyen;30
+Voiture;Imp_3 et +;End_2;Celibataire;Cadre sup.;30
+Mobilier / Ameublement;Imp_0;End_3;Marie;Ouvrier qualifie;50
+Voiture;Imp_3 et +;End_4;Divorce;Ouvrier non qualifie;20
+Mobilier / Ameublement;Imp_0;End_3;Union libre;Cadre moyen;30
+Voiture;Imp_3 et +;End_2;Marie;Retraite;60
+Renovation;Imp_0;End_2;Marie;Cadre moyen;50
+Moto;Imp_0;End_4;Marie;Cadre sup.;50
+Moto;Imp_3 et +;End_4;Union libre;Ouvrier qualifie;40
+Scooter;Imp_0;End_3;Divorce;Cadre moyen;20
+Mobilier / Ameublement;Imp_3 et +;End_2;Celibataire;Ouvrier non qualifie;20
+Voiture;Imp_0;End_4;Marie;Ouvrier qualifie;30
+Voiture;Imp_3 et +;End_1;Union libre;Ouvrier qualifie;20
+Side-car;Imp_0;End_1;Celibataire;Cadre moyen;30
+Voiture;Imp_0;End_1;Celibataire;Ouvrier qualifie;50
+Renovation;Imp_1_ou_2;End_3;Celibataire;Cadre sup.;50
+Voiture;Imp_1_ou_2;End_4;Marie;Cadre sup.;30
+Voiture;Imp_0;End_4;Marie;Cadre moyen;30
+Scooter;Imp_3 et +;End_1;Celibataire;Ouvrier qualifie;20
+Mobilier / Ameublement;Imp_0;End_1;Marie;Cadre moyen;50
+Mobilier / Ameublement;Imp_3 et +;End_1;Celibataire;Ouvrier non qualifie;30
+Moto;Imp_1_ou_2;End_3;Veuf;Cadre moyen;30
+Mobilier / Ameublement;Imp_0;End_1;Divorce;Cadre moyen;30
+Mobilier / Ameublement;Imp_3 et +;End_2;Union libre;Ouvrier non qualifie;40
+Renovation;Imp_3 et +;End_4;Divorce;Ouvrier non qualifie;30
+Voiture;Imp_1_ou_2;End_4;Marie;Ouvrier qualifie;20
+Renovation;Imp_1_ou_2;End_2;Marie;Retraite;60
